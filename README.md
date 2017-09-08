@@ -1,6 +1,6 @@
-# nuxt_elm
+# nuxt_element
 
-> a project by elm
+> a project by element-ui
 
 # 参考项目
 1. [vue2-elm](https://github.com/bailicangdu/vue2-elm)
